@@ -78,3 +78,7 @@
   210  sudo docker run -d -p 8080:80 dsfyer/2parcial-ayso:v1.0
   211  ls
   212  history
+
+
+
+  dsfyer/2parcial-ayso:v1.0
